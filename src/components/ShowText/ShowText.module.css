@@ -16,3 +16,7 @@
 .yesbutton:hover {
   background-color: rgb(222, 222, 169);
 }
+
+.info p {
+  margin-bottom: 5px;
+}
